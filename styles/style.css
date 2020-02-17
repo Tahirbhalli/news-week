@@ -40,6 +40,10 @@ a:hover{
     color: black;
 }
 
+.card{
+    border: none;
+}
+
 @media screen and (max-width: 450px) {
     .text-fnt{
         font-size: 14px;
