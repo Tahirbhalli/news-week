@@ -30,7 +30,13 @@ a:hover{
 
 .stories{
     background-color: white;
+    height: 600px;
+    -ms-overflow-style: none;
 }
+
+.stories::-webkit-scrollbar {
+    display: none;
+  }
 
 .heading-clr{
     color: rgba(3,3,3,.4);
