@@ -1,3 +1,41 @@
 header{
     background-color: red;
 }
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: unset;
+}
+
+.btn-signin{
+    background-color: white;
+    color: red;
+}
+
+.collapse-nav{
+    background-color: white;
+}
+
+.nav-links{
+    color: black;
+}
+
+.nav-links:hover{
+    color: Red;
+}
+
+@media screen and (max-width: 450px) {
+    .text-fnt{
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .collapse-nav{
+        display: none;
+    }
+}
