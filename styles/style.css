@@ -49,6 +49,45 @@ a:hover{
 .card{
     border: none;
 }
+.col1{
+    height: 1400px;
+    overflow: scroll;
+}
+
+.col1::-webkit-scrollbar{
+    display: none;
+}
+
+.col2{
+    height: 1400px;
+    overflow: scroll;
+}
+
+.col2::-webkit-scrollbar{
+    display: none;
+}
+
+.col3{
+    height: 1400px;
+    overflow: scroll;
+}
+
+.col3::-webkit-scrollbar{
+    display: none;
+}
+
+.label-card{
+    background-color: white;
+    bottom: 0;
+    color: red;
+    padding: 6px 5px 6px 5px;
+    font-weight: bold;
+}
+
+.card-imge{
+    position: relative;
+    
+}
 
 @media screen and (max-width: 450px) {
     .text-fnt{
