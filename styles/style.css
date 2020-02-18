@@ -153,6 +153,12 @@ a aside:hover{
     color: red;
 }
 
+.border-img{
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+    margin-bottom: 3px;
+}
+
 @media screen and (max-width: 450px) {
     .text-fnt{
         font-size: 14px;
