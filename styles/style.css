@@ -101,6 +101,22 @@ a aside:hover{
     color: red;
 }
 
+.text-alin{
+    top: 1;
+}
+
+.opinion-img2{
+    width: 50%;
+}
+
+.btn-style{
+    background-color: #666;
+}
+
+.btn-style:hover{
+    background-color: #999;
+}
+
 @media screen and (max-width: 450px) {
     .text-fnt{
         font-size: 14px;
