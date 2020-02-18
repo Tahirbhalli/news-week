@@ -7,8 +7,8 @@ a{
 }
 
 a:hover{
-    text-decoration: none;
     color: unset;
+    text-decoration: none;
 }
 
 .btn-signin{
@@ -80,13 +80,25 @@ a:hover{
     background-color: white;
     bottom: 0;
     color: red;
-    padding: 6px 5px 6px 5px;
     font-weight: bold;
+    padding: 6px 5px 6px 5px;
 }
 
 .card-imge{
     position: relative;
-    
+}
+
+.opinion-img{
+    height: 25%;
+    width: 35%;
+}
+
+a aside{
+    color: rgb(20, 19, 19);
+}
+
+a aside:hover{
+    color: red;
 }
 
 @media screen and (max-width: 450px) {
