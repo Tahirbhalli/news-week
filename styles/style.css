@@ -166,19 +166,17 @@ a aside:hover{
 .newscastle-img{
     height: 100%;
     width: 121%;
-
 }
 
 .footer-cr{
     margin-top: 20px;
     padding-left: 10px;
-
 }
 
 .icons{
-    text-align: right;
     font-size: xx-large;
     margin-top: -45px;
+    text-align: right;
 }
 
 .br-left{
