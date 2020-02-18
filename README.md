@@ -1,6 +1,6 @@
 # news-week
 
-![screenshot](./img/screenshot.png)
+![screenshot](./screenshot.png)
 
 The page tries to replicate as much as possible of this https://www.newsweek.com/ page.
 
