@@ -36,7 +36,7 @@ a:hover {
 
 .stories::-webkit-scrollbar {
   display: none;
-  }
+}
 
 .heading-clr {
   color: rgba(3, 3, 3, .4);
@@ -184,13 +184,13 @@ a aside:hover {
 }
 
 @media screen and (max-width: 450px) {
-    .text-fnt {
-      font-size: 14px;
-    }
+  .text-fnt {
+     font-size: 14px;
+   }
 }
 
 @media screen and (max-width: 700px) {
-    .collapse-nav {
-      display: none;
-    }
+  .collapse-nav {
+    display: none;
+   }
 }
