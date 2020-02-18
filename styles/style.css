@@ -185,13 +185,13 @@ a aside:hover {
 }
 
 @media screen and (max-width: 450px) {
-    .text-fnt {
-      font-size: 14px;
-    }
+  .text-fnt {
+    font-size: 14px;
+  }
 }
 
 @media screen and (max-width: 700px) {
-    .collapse-nav {
-      display: none;
-    }
+  .collapse-nav {
+    display: none;
+  }
 }
