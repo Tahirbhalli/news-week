@@ -15,6 +15,36 @@ ul {
   list-style-type: none;
 }
 
+.hamburger {
+  display: none;
+}
+
+.overflow-hide {
+  overflow: hidden;
+}
+
+.stick {
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+  background-color: red;
+}
+
+.btn-clr {
+  background-color: #c2d4d7;
+  color: black;
+  padding: 5px;
+}
+
+.sumary-color {
+  color: rgba(39,39,39,.5);
+}
+
+.btn-clr:hover {
+  background-color: black;
+  color: white;
+}
+
 .btn-signin {
   background-color: white;
   color: red;
@@ -165,7 +195,7 @@ a aside:hover {
 }
 
 .newscastle {
-  margin-top: -31px;
+  bottom: 58px;
 }
 
 .newscastle-img {
@@ -192,10 +222,24 @@ a aside:hover {
   .text-fnt {
     font-size: 14px;
   }
+
+  .hamburger {
+    display: inherit;
+    color: white;
+  }
+
+  .newscastle {
+    bottom: 0;
+  }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
   .collapse-nav {
     display: none;
+  }
+
+  .hamburger {
+    display: inherit;
+    color: white;
   }
 }
