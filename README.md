@@ -11,7 +11,7 @@ The page tries to replicate as much as possible of this https://www.newsweek.com
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/news-week/b610d4c8c5bdd80353195cece1f9c75088f26a40/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Tahirbhalli/news-week/083df831713dfc3bf60deb13f0efa3a8a109864c/index.html)
 
 
 ## Authors
