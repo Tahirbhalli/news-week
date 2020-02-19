@@ -40,6 +40,10 @@ ul {
   color: rgba(83, 74, 74, 0.5);
 }
 
+.img-height {
+  height: 300px;
+}
+
 .btn-clr:hover {
   background-color: black;
   color: white;
