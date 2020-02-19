@@ -24,10 +24,10 @@ ul {
 }
 
 .stick {
+  background-color: red;
   position: sticky;
   top: 0px;
   z-index: 1;
-  background-color: red;
 }
 
 .btn-clr {
@@ -37,7 +37,7 @@ ul {
 }
 
 .sumary-color {
-  color: rgba(39,39,39,.5);
+  color: rgba(39, 39, 39, .5);
 }
 
 .btn-clr:hover {
