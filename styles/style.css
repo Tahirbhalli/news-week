@@ -200,7 +200,15 @@ a aside:hover {
 
 .newscastle-img {
   height: 100%;
-  width: 121%;
+  width: 233%;
+}
+
+.low-font{
+  font-size: 10px;
+}
+
+.max-padding-left{
+  padding-left: 5rem;
 }
 
 .footer-cr {
