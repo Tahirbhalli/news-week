@@ -243,6 +243,10 @@ a aside:hover {
   width: 79%;
 }
 
+.max-width {
+  width: 100%;
+}
+
 @media screen and (max-width: 900px) {
   .collapse-nav {
     display: none;
