@@ -11,6 +11,10 @@ a:hover {
   text-decoration: none;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .btn-signin {
   background-color: white;
   color: red;
