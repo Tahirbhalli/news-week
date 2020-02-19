@@ -123,11 +123,6 @@ ul {
   position: relative;
 }
 
-.opinion-img {
-  height: 25%;
-  width: 35%;
-}
-
 a aside {
   color: rgb(20, 19, 19);
 }
@@ -200,6 +195,7 @@ a aside:hover {
 
 .newscastle-img {
   height: 100%;
+  overflow: hidden;
   width: 233%;
 }
 
@@ -208,6 +204,7 @@ a aside:hover {
 }
 
 .max-padding-left {
+  overflow: hidden;
   padding-left: 5rem;
 }
 
@@ -241,6 +238,11 @@ a aside:hover {
   }
 }
 
+.opinion-img {
+  height: 35%;
+  width: 79%;
+}
+
 @media screen and (max-width: 900px) {
   .collapse-nav {
     display: none;
@@ -249,5 +251,18 @@ a aside:hover {
   .hamburger {
     display: inherit;
     color: white;
+  }
+}
+
+@media screen and (max-width: 1400px) {
+  .max-padding-left {
+    padding-left: 7rem;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .opinion-img {
+    height: auto;
+    width: auto;
   }
 }
