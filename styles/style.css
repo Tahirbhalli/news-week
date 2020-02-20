@@ -209,7 +209,7 @@ a aside:hover {
 
 .max-padding-left {
   overflow: hidden;
-  padding-left: 5rem;
+  padding-left: 1rem;
 }
 
 .footer-cr {
@@ -251,6 +251,12 @@ a aside:hover {
   width: 100%;
 }
 
+@media (min-width:2052px) and (max-width:2732px) {
+  .min-width{
+    width: 80px;
+  }
+}
+
 @media screen and (max-width: 900px) {
   .collapse-nav {
     display: none;
@@ -264,7 +270,7 @@ a aside:hover {
 
 @media screen and (max-width: 1400px) {
   .max-padding-left {
-    padding-left: 5rem;
+    padding-left: 1rem;
   }
 }
 
