@@ -2,6 +2,9 @@ header {
   background-color: red;
 }
 
+header img {
+  margin-left: 93px;
+}
 a {
   text-decoration: none;
 }
@@ -228,6 +231,10 @@ a aside:hover {
 }
 
 @media screen and (max-width: 450px) {
+  header img {
+    margin-left: 0;
+  }
+
   .text-fnt {
     font-size: 14px;
   }
