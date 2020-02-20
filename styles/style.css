@@ -266,6 +266,12 @@ h2 {
   }
 }
 
+@media screen and (min-width: 650px) {
+  .stories {
+    height: auto;
+  }
+}
+
 @media screen and (max-width: 1230px) {
   .collapse-nav {
     display: none;
