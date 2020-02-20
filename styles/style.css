@@ -68,7 +68,7 @@ ul {
 
 .stories {
   background-color: white;
-  height: 600px;
+  height: auto;
   -ms-overflow-style: none;
 }
 
@@ -252,6 +252,10 @@ a aside:hover {
 
 .max-height {
   height: 100%;
+}
+
+.marginright {
+  margin-right: 10px;
 }
 
 h2 {
