@@ -6,6 +6,10 @@ header img {
   margin-left: 93px;
 }
 
+.onethird-width {
+  width: 30%;
+}
+
 a {
   text-decoration: none;
 }
