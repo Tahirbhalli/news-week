@@ -250,8 +250,16 @@ a aside:hover {
   width: 100%;
 }
 
+.max-height {
+  height: 100%;
+}
+
 h2 {
   font-size: 1.1rem;
+}
+
+.overlapimg {
+  margin-left: -63px;
 }
 
 @media screen and (max-width: 800px) {
