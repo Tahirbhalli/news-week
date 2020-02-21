@@ -110,6 +110,10 @@ ul {
   width: 0;
 }
 
+.height-auto {
+  height: auto;
+}
+
 .col3 {
   height: inherit;
 }
@@ -143,7 +147,7 @@ a aside:hover {
 }
 
 .height-newscatle {
-  height: 228px;
+  height: 264px;
 }
 
 .btn-style {
@@ -270,7 +274,7 @@ a aside:hover {
 }
 
 h2 {
-  font-size: 1.7rem;
+  font-size: 1.9rem;
 }
 
 .overlapimg {
@@ -280,6 +284,12 @@ h2 {
 @media screen and (max-width: 800px) {
   h2 {
     font-size: 0.7rem;
+  }
+}
+
+@media screen and (max-width: 1250px) {
+  h2{
+    font-size: 1.7rem;
   }
 }
 
@@ -297,6 +307,10 @@ h2 {
 @media screen and (max-width: 500px) {
   h2 {
     font-size: 1rem;
+  }
+
+  .height-newscatle {
+    height: auto;
   }
 }
 
