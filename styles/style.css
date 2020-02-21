@@ -292,7 +292,7 @@ h2 {
 }
 
 @media screen and (max-width: 1250px) {
-  h2{
+  h2 {
     font-size: 1.7rem;
   }
 }
