@@ -2,7 +2,7 @@
 
 ![screenshot](./screenshot.png)
 
-The page tries to replicate as much as possible of this https://www.newsweek.com/ page.
+The page tries to replicate as much as possible of this [News week](https://www.newsweek.com/) page.
 
 ## Built With
 
