@@ -289,12 +289,19 @@ h2 {
   .height-newscatle {
     height: auto;
   }
+
+  .display-block {
+    display: block!important;
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 1250px) {
   h2 {
-    font-size: 1.7rem;
+    font-size: 0.8rem;
+    font-weight: bold;
   }
+  
 }
 
 @media screen and (max-width: 950px) {
