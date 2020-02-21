@@ -273,6 +273,10 @@ a aside:hover {
   display: initial;
 }
 
+.a-height{
+  height: auto;
+}
+
 h2 {
   font-size: 1.9rem;
 }
