@@ -103,14 +103,12 @@ ul {
 .col2 {
   height: 1766px;
   overflow: scroll;
-  
   scrollbar-width: none;
 }
 
 .col2::-webkit-scrollbar {
-   width: 0 !important; 
+   width: 0; 
 }
-
 
 .col3 {
   height: inherit;
@@ -267,16 +265,12 @@ a aside:hover {
   margin-right: 10px;
 }
 
-.date-hide{
+.date-hide {
   display: initial;
 }
 
 h2 {
   font-size: 1.7rem;
-}
-
-.date-hide {
-  display: inherit;
 }
 
 .overlapimg {
@@ -289,7 +283,7 @@ h2 {
   }
 }
 
-@media screen and ( max-width: 950px) {
+@media screen and (max-width: 950px) {
   .date-hide {
     display: none;
   }
