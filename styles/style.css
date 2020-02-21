@@ -291,7 +291,7 @@ h2 {
   }
 
   .display-block {
-    display: block!important;
+    display: block !important;
     width: 100%;
   }
 }
